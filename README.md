@@ -12,6 +12,7 @@ mvn clean install
 ## TODO
 - Webscraping information
 - Appointment reminder
+- Weekly schedule with group change
 
 ## Libraries
 
