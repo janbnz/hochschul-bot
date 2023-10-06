@@ -13,6 +13,7 @@ mvn clean install
 - Webscraping information
 - Appointment reminder
 - Weekly schedule with group change
+- Auto VC
 
 ## Libraries
 
